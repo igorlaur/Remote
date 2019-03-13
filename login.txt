@@ -1,1 +1,3 @@
-Criando o sistema de login
+Criando o sistema de login.
+
+Adicionando novas funcionalidades
